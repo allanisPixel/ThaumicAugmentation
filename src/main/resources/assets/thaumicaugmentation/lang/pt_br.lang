@@ -311,17 +311,17 @@ focus.thaumicaugmentation.shield.reflect_yes=Sim
 focus.thaumicaugmentation.water.name=Água
 focus.thaumicaugmentation.water.text=Invoca uma torrente de água que pode extinguir incêndios e plantações de água, além de possivelmente causar uma pequena quantidade de dano.
 
-thaumicaugmentation.research.card.rift_jar.title=Rift in a Jar
-thaumicaugmentation.research.card.rift_jar.text=Gazing at the rift floating harmlessly in the nearby jar reminds you that combining multiple facets of Thaumaturgy can turn what could have once been insurmountable obstacles into new opportunities. Gain a random amount of progress in 3 random, non-rejected categories, and 2 additional categories will gain the full bonus upon completion.
+thaumicaugmentation.research.card.rift_jar.title=Fenda em um Pote
+thaumicaugmentation.research.card.rift_jar.text=Olhar para a fenda flutuando inofensivamente no jarro próximo lembra que a combinação de múltiplas facetas da Taumaturgia pode transformar o que antes eram obstáculos intransponíveis em novas oportunidades. Ganhe uma quantidade aleatória de progresso em 3 categorias aleatórias e não rejeitadas, e 2 categorias adicionais ganharão o bônus total após a conclusão.
 
-thaumicaugmentation.research.card.rift_monitor.title=Extradimensional Monitor
-thaumicaugmentation.research.card.rift_monitor.text=The Extradimensional Monitor's vibrant holograms allow you to study the Eldritch from afar and with a greater clarity than before. Gain 20 to 40 Eldritch progress, with no chance of obtaining any warp.
+thaumicaugmentation.research.card.rift_monitor.title=Monitor Extradimensional
+thaumicaugmentation.research.card.rift_monitor.text=Os hologramas vibrantes do Monitor Extradimensional permitem que você estude o Eldritch de longe e com maior clareza do que antes. Ganhe 20 a 40 de progresso Eldritch, sem chance de obter qualquer Deformação.
 
-tc.research_category.THAUMIC_AUGMENTATION=Thaumic Augmentation
-thaumicaugmentation.research.thaumic_augmentation_base.title=Thaumic Augmentation
-thaumicaugmentation.research.thaumic_augmentation_base.0=I'll dedicate this section of the Thaumonomicon to any miscellaneous discoveries I make. Who knows what I may come up with?
+tc.research_category.THAUMIC_AUGMENTATION=Aprimoramento Taumico
+thaumicaugmentation.research.thaumic_augmentation_base.title=Aprimoramento Taumico
+thaumicaugmentation.research.thaumic_augmentation_base.0=Dedicarei esta seção do Thaumonomicon a quaisquer descobertas diversas que fizer. Quem sabe o que poderei inventar?
 
-thaumicaugmentation.research.gauntlet_thaumium.title=Thaumium Caster's Gauntlet
+thaumicaugmentation.research.gauntlet_thaumium.title=Manopla do Conjurador Táumio
 thaumicaugmentation.research.gauntlet_thaumium.0=As I noted before, iron is a very poor vis conductor. It gets the job done, but now that I have discovered thaumium, it should be a simple task to upgrade my old caster's gauntlet prototype to be much more effective than before.<BR>While I am making modifications, I might as well investigate enchanted fabric's usefulness as a replacement for leather.
 thaumicaugmentation.research.gauntlet_thaumium.1=I have successfully created the new casting gauntlet, which I am (uncreatively) calling the Thaumium Caster's Gauntlet. The introduction of Thaumium allows the caster to be more about 10% more efficient with the usage of Vis, in addition to slightly reducing the cooldown between casts.<BR>It seems that the enchanted fabric takes very well to dyes - I only need to combine the gauntlet with one or more dyes on a mundane crafting table to get a new colour. To remove the dye, I need to use the gauntlet on a filled, mundane cauldron.
 
